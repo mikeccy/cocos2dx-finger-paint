@@ -1,7 +1,7 @@
 cocos2dx-finger-paint
 =====================
 
-Cross-platform Development Test
+Cross Platform Mobile App Demo
 
 - uses cocos2dx 2.0.4
 - works in ios and android
